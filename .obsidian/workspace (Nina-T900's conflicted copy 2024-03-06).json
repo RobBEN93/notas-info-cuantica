@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "3296d811ea32fa5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "849a573f230c5308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeabc87cb60a0dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elementos de Información Cuántica/Qubit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b3e6a5a80aac0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d153f8a2c1c28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e5c838feabbe48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82791e80f9d3ca5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Heisen",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28148e358ad3af3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4621fda8d6a5946d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6ddead7934dbe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc8fc0ae9d2aafe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elementos de Información Cuántica/Qubit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee889424c0528130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elementos de Información Cuántica/Qubit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19ede68b20e59938",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d13fbcaa5dbe915",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elementos de Información Cuántica/Qubit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "eeabc87cb60a0dce",
+  "lastOpenFiles": [
+    "Conjunto generador de un grupo.md",
+    "Producto interno de Hilbert-Schmidt.md",
+    "Grupo de Pauli.md",
+    "Matrices ortogonales.md",
+    "Traza de un operador lineal.md",
+    "Grupo.md",
+    "Principio de incertidumbre de Heisenberg.md",
+    "Elementos de Mecánica Cuántica/Elementos de Mecánica Cuántica.md",
+    "Elementos de Información Cuántica/Qubit.md",
+    "Elementos de Información Cuántica/Base computacional.md",
+    "Símbolo de Levi-Civita.md",
+    "Optimized Quantum Networks study.md",
+    "Doble dual de un espacio vectorial.md",
+    "Tensor.md",
+    "Producto de tensores.md",
+    "Permutaciones.md",
+    "Función multilineal.md",
+    "Sin título.md",
+    "Elementos de Álgebra Lineal/Espacio dual.md",
+    "Elementos de Álgebra Lineal/Adjunto de un operador.md",
+    "Elementos de Álgebra Lineal/Producto Ket-Bra.md",
+    "Elementos de Mecánica Cuántica/Operadores de Pauli.md",
+    "Elementos de Álgebra Lineal/Anticonmutador de dos operadores lineales.md",
+    "conmutador.md",
+    "Elementos de Álgebra Lineal/Producto de operadores lineales.md",
+    "Elementos de Álgebra Lineal/Operadores normales.md",
+    "Elementos de Teoría de Grafos",
+    "Elementos de Probabilidad",
+    "Elementos de Información Clásica",
+    "Elementos de Información Cuántica",
+    "Elementos de Mecánica Cuántica",
+    "OLD",
+    "Linear Algebra",
+    "Classical Information",
+    "Untitled 1/Pauli gates",
+    "Untitled 1/Untitled 2"
+  ]
+}
