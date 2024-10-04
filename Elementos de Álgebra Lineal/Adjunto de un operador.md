@@ -10,7 +10,7 @@ $$
 \ket{v}^\dagger \equiv \bra{v}
 $$
 #### Representación matricial del adjunto
-Resulta que, en cualquier [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] para $V$, la [[Representación de operadores lineales con matrices|matriz que representa]] a $A^\dagger$ es la [[Operaciones adicionales con matrices|conjugada transpuesta]] de la matriz que representa a $A$.
+Resulta que, en cualquier [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] para $V$, la [[Representación de operadores lineales con matrices|matriz que representa]] a $A^\dagger$ es la [[Operaciones con matrices|conjugada transpuesta]] de la matriz que representa a $A$.
 
 ### Propiedades básicas
 Para cualesquiera operadores $A,B:V \rightarrow V$, y cualesquiera vectores $\ket{v}, \ket{w} \in V$, se tiene 

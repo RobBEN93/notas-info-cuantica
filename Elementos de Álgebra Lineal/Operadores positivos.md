@@ -7,4 +7,4 @@ Además, $A$ se dice _estrictamente positivo_ o _positivo definido_ si $(\ket{v}
 #### Resultados básicos
 1. Los operadores positivos son [[Operadores Hermitianos|Hermitianos]]. %% #MISSING-PROOF  : An arbitrary operator A can be written as A=B+iC for B and C Hermitian%% %%Nielsen Chuang%%
 2. Para cualquier operador $A$, $A^\dagger A$ es positivo. %% #MISSING-PROOF  Minimum conditions?%% %%Nielsen Chuang%%
-#pendiente
+#pendiente #CONFLICTING

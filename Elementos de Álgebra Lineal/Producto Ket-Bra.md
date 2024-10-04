@@ -24,7 +24,7 @@ $$
 0 & \cdots & 0 & 0 & 0 & \cdots  & 0 \\
 \end{pmatrix}
 $$
-Lo cual es consistente con el [[Operaciones adicionales con matrices|producto de matrices]] 
+Lo cual es consistente con el [[Operaciones con matrices|producto de matrices]] 
 $$
 \ket{i}\bra{j}=
 \begin{pmatrix}
@@ -40,7 +40,7 @@ $$
 0 & \cdots & 0 & 1_j & 0 & \cdots & 0
 \end{pmatrix}
 $$
-Por otro lado, podemos hablar del [[Adjunto de un operador|adjunto]] del operador $\ket{\psi}\bra{\phi}$. De hecho, se verifica que #MISSING-PROOF 
+Por otro lado, podemos hablar del [[Adjunto de un operador|adjunto]] del operador $\ket{\psi}\bra{\phi}$. De hecho, se verifica que
 $$
 (\ket{\psi}\bra{\phi})^\dagger = \ket{\phi}\bra{\psi}
 $$

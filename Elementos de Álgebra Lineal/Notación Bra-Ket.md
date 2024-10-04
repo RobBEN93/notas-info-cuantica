@@ -3,7 +3,7 @@ Consideremos un [[Espacio vectorial]] de dimensión finita $V$ sobre el campo $\
 1. **Ket**: Un "ket", denotado por $|\psi\rangle$, representa un vector en el espacio $V$. Formalmente, un ket representa un vector columna: $$\ket{\psi} = \begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_n \end{bmatrix}$$
 	donde $a_1, a_2, \ldots, a_n$ son las componentes del vector en alguna base de $V$.
     
-2. **Bra**: Un "bra", denotado por $\langle\phi|$, es el [[Espacio dual|dual]] de un ket, correspondiente al [[Operaciones adicionales con matrices|conjugado transpuesto]] del ket. I.e. si el ket correspondiente es $\ket{\phi}$, el bra se escribe: $$\langle\phi| = (|\phi\rangle)^\dagger = \begin{bmatrix} b_1^*, & b_2^*, & \ldots, & b_n^* \end{bmatrix}$$
+2. **Bra**: Un "bra", denotado por $\langle\phi|$, es el [[Espacio dual|dual]] de un ket, correspondiente al [[Operaciones con matrices|conjugado transpuesto]] del ket. I.e. si el ket correspondiente es $\ket{\phi}$, el bra se escribe: $$\langle\phi| = (|\phi\rangle)^\dagger = \begin{bmatrix} b_1^*, & b_2^*, & \ldots, & b_n^* \end{bmatrix}$$
 	donde $b_1^*, b_2^*, \ldots, b_n^*$ son los complejos conjugados de las componentes de $\ket{\phi}$.
     
 3. **Producto Bra-Ket**: El producto de un bra y un ket, denotado por $\langle\phi|\psi\rangle$, es el producto interno en el espacio. Si $\ket{\psi}$ y $\ket{\phi}$ son vectores en $V$, entonces: $$\langle\phi|\psi\rangle = \sum_{i=1}^{n} b_i^* a_i$$
